@@ -1,0 +1,39 @@
+_repo: The-Safety-First-Club-fights-fire_70116
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Chambers, Wilson V.
+    alias: Chambers, W. V.
+    gutenberg_agent_id: '37323'
+    url: http://www.gutenberg.org/2009/agents/37323
+creator:
+  author:
+    agent_name: Nichols, William Theophilus
+    alias: Nichols, W. T.
+    birthdate: 1863
+    gutenberg_agent_id: '52957'
+    url: http://www.gutenberg.org/2009/agents/52957
+description: ''
+gutenberg_issued: '2023-02-23'
+identifiers:
+  gutenberg: '70116'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:734983
+pgterms:marc905: 20220927053512nichols
+pgterms:marc906: '1923'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aUnited States :$bPenn Publishing Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Forest fires -- Juvenile fiction'
+- !lcsh 'Boys -- Societies and clubs -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Safety First Club fights fire
+url: http://www.gutenberg.org/ebooks/70116
