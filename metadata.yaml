@@ -6,6 +6,9 @@ contributor:
     alias: Chambers, W. V.
     gutenberg_agent_id: '37323'
     url: http://www.gutenberg.org/2009/agents/37323
+covers:
+- cover_type: archival
+  image_path: 70116-h/images/cover.jpg
 creator:
   author:
     agent_name: Nichols, William Theophilus
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '52957'
     url: http://www.gutenberg.org/2009/agents/52957
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70116#The-Safety-First-Club-fights-fire
 gutenberg_issued: '2023-02-23'
 identifiers:
   gutenberg: '70116'
